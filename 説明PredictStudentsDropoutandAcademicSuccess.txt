@@ -1,0 +1,38 @@
+                                              name     role  ... units missing_values
+0                                   Marital Status  Feature  ...  None             no 婚姻状態　1：独身　２：既婚　３：未亡人　４：離婚　５：事実婚　６：別居
+1                                 Application mode  Feature  ...  None             no 
+2                                Application order  Feature  ...  None             no
+3                                           Course  Feature  ...  None             no
+4                       Daytime/evening attendance  Feature  ...  None             no
+5                           Previous qualification  Feature  ...  None             no
+6                   Previous qualification (grade)  Feature  ...  None             no
+7                                      Nacionality  Feature  ...  None             no
+8                           Mother's qualification  Feature  ...  None             no
+9                           Father's qualification  Feature  ...  None             no
+10                             Mother's occupation  Feature  ...  None             no
+11                             Father's occupation  Feature  ...  None             no
+12                                 Admission grade  Feature  ...  None             no
+13                                       Displaced  Feature  ...  None             no
+14                       Educational special needs  Feature  ...  None             no
+15                                          Debtor  Feature  ...  None             no
+16                         Tuition fees up to date  Feature  ...  None             no
+17                                          Gender  Feature  ...  None             no
+18                              Scholarship holder  Feature  ...  None             no
+19                               Age at enrollment  Feature  ...  None             no
+20                                   International  Feature  ...  None             no
+21             Curricular units 1st sem (credited)  Feature  ...  None             no
+22             Curricular units 1st sem (enrolled)  Feature  ...  None             no
+23          Curricular units 1st sem (evaluations)  Feature  ...  None             no
+24             Curricular units 1st sem (approved)  Feature  ...  None             no
+25                Curricular units 1st sem (grade)  Feature  ...  None             no
+26  Curricular units 1st sem (without evaluations)  Feature  ...  None             no
+27             Curricular units 2nd sem (credited)  Feature  ...  None             no
+28             Curricular units 2nd sem (enrolled)  Feature  ...  None             no
+29          Curricular units 2nd sem (evaluations)  Feature  ...  None             no
+30             Curricular units 2nd sem (approved)  Feature  ...  None             no
+31                Curricular units 2nd sem (grade)  Feature  ...  None             no
+32  Curricular units 2nd sem (without evaluations)  Feature  ...  None             no
+33                               Unemployment rate  Feature  ...  None             no
+34                                  Inflation rate  Feature  ...  None             no
+35                                             GDP  Feature  ...  None             no
+36                                          Target   Target  ...  None             no
